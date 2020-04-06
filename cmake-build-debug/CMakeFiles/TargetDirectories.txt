@@ -1,0 +1,3 @@
+C:/Users/Public/ClionProjects/lab2-sort/cmake-build-debug/CMakeFiles/lab2_sort.dir
+C:/Users/Public/ClionProjects/lab2-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/ClionProjects/lab2-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
