@@ -101,11 +101,25 @@ int main(int argc, char *argv[]) {
     FILE *in, *out;
     int i = 0, size = 1;
     in = fopen(argv[1], "r");
+    fseek(in, 0, SEEK_END);
+    size_t len = ftell(in);
+    if (len == 4294967295){
+        printf("There is no such file or folder: %s", argv[1]);
+        exit(2);
+    }
     struct Person *arr = (struct Person *) malloc(sizeof(struct Person) * size);
+    if (arr == NULL){
+        printf("Memory allocation error");
+        exit(1);
+    }
     while (!feof(in)) {
         if (i == size){
             size *= 2;
             arr = (struct Person*) realloc(arr, sizeof(struct Person) * size);
+            if (arr == NULL){
+                printf("Memory allocation error");
+                exit(1);
+            }
         }
         fscanf(in, "%s %s %s %i\n", arr[i].surname, arr[i].name, arr[i].batua, &arr[i].phone_number);
         i++;

@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2f9a43-5e81-4eb6-9944-d767d8e1dc40" name="Default Changelist" comment="" />
+    <list default="true" id="cd2f9a43-5e81-4eb6-9944-d767d8e1dc40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab2_sort.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lab2_sort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lab2_sort.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aAcghK7G6CQae5zclaYlybYPwI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586181951736</updated>
-      <workItem from="1586181952951" duration="14983000" />
+      <workItem from="1586181952951" duration="15375000" />
     </task>
     <servers />
   </component>
@@ -61,26 +72,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586195513845">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586198091300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586195513845" />
-    <state width="1493" height="58" key="GridCell.Tab.0.bottom" timestamp="1586197155800">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586198091300" />
+    <state width="1493" height="58" key="GridCell.Tab.0.bottom" timestamp="1586198115191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="58" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586197155800" />
-    <state width="1493" height="58" key="GridCell.Tab.0.center" timestamp="1586197155800">
+    <state width="1493" height="58" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586198115191" />
+    <state width="1493" height="58" key="GridCell.Tab.0.center" timestamp="1586198115191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="58" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586197155800" />
-    <state width="1493" height="58" key="GridCell.Tab.0.left" timestamp="1586197155800">
+    <state width="1493" height="58" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586198115191" />
+    <state width="1493" height="58" key="GridCell.Tab.0.left" timestamp="1586198115190">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="58" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586197155800" />
-    <state width="1493" height="58" key="GridCell.Tab.0.right" timestamp="1586197155800">
+    <state width="1493" height="58" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586198115190" />
+    <state width="1493" height="58" key="GridCell.Tab.0.right" timestamp="1586198115191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="58" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586197155800" />
+    <state width="1493" height="58" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586198115191" />
     <state width="1493" height="290" key="GridCell.Tab.1.bottom" timestamp="1586197152370">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -108,7 +119,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.c</url>
-          <line>112</line>
+          <line>126</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
